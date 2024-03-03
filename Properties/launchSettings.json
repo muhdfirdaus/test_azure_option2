@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "test_azure_ToDoCRUD": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7053",
+      "launchBrowser": false
+    }
+  }
+}

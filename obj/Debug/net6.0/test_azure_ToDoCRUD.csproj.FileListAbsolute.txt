@@ -1,0 +1,5 @@
+C:\Users\USER\Downloads\test_azure_ToDoCRUD\obj\Debug\net6.0\test_azure_ToDoCRUD.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\test_azure_ToDoCRUD\obj\Debug\net6.0\test_azure_ToDoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\test_azure_ToDoCRUD\obj\Debug\net6.0\test_azure_ToDoCRUD.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\test_azure_ToDoCRUD\obj\Debug\net6.0\test_azure_ToDoCRUD.AssemblyInfo.cs
+C:\Users\USER\Downloads\test_azure_ToDoCRUD\obj\Debug\net6.0\test_azure_ToDoCRUD.csproj.CoreCompileInputs.cache
